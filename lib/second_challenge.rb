@@ -10,7 +10,7 @@ def second_challenge
         hero: {
           
         },
-        hero_friend: {
+        hero_friends: {
           
         }
       }, 
@@ -24,7 +24,7 @@ def second_challenge
         heroine: {
           
         },
-        heroine_friend: {
+        heroine_friends: {
           
         }
       }}
